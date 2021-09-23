@@ -1,0 +1,17 @@
+.container1 {
+  color: #fff;
+  background-color: #6252769a;
+  box-shadow: 6px 5px 10px 0px rgba(26, 30, 57, 0.75);
+  padding: 10px 40px 10px 40px;
+  width: 500px;
+  display: flex;
+  margin-top: 80px;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

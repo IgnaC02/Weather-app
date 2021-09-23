@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background: #36384F;
+  box-shadow: 5px 10px 20px -4px rgba(0,0,0,0.75);
+}
+
+.navbar-brand{
+  color: #fff;
+}
+
+.abt{
+  color: #fff;
+  text-decoration: none;
+}
+
+.abt:hover{ 
+  color: #ECAF9A;
+  text-decoration: none;
+}

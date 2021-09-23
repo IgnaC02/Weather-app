@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  outline: 1px solid red;
+  background-image: url(../img/wp5123161-minimalist-mountain-wallpapers.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position:fixed;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

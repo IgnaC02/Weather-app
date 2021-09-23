@@ -1,0 +1,19 @@
+.search {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border: none;
+  width: 130px;
+  background-color: #202130;
+  color: #fff;
+  padding: 3px 5px 3px 10px;
+
+}
+
+.sub {
+  padding: 3px 12px 3px 3px;
+  color: #fff;
+  background-color: #202130;
+  border: none;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
